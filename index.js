@@ -1,4 +1,4 @@
 let btn = document.getElementById("btn");
 btn.addEventListener("click", function(){
-  alert("Hello World");
+  console.log('Hello World');
 }, false);
